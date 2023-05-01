@@ -53,3 +53,13 @@
 
       git push origin master
       
+---------------------------
+## 🩹 edit it and upload it again 🩹
+
+1. 기존 코드를 먼저 다운 받음
+
+            git pull drigin master
+      
+2. 다시 push하기
+      
+            git push origin master
