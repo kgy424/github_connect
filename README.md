@@ -1,6 +1,6 @@
 # github_connect
 
-## 🍬 [git setup](https://git-scm.com/download/win)
+## 🍬 [git setup](https://git-scm.com/download/win) 🍄
       
       git을 통해서 github과 연결 가능.
       git에 올려야 할 폴더에 shift+우클릭 > PowerShell 선택
@@ -8,7 +8,7 @@
       => .git 폴더가 생성됨.
 
 ----------------
-## 🍬🍬 open 'Git Dash' after setup the git
+## 🍬🍬 open 'Git Dash' after setup the git 🍄🍄
 ![image](https://user-images.githubusercontent.com/129706828/235417876-203da90e-226f-4334-be0c-b39ee631f6f4.png)
 
 * 유저 이름 설정하기
@@ -27,7 +27,7 @@
 ## 위 연결은 한 디바이스에서 한 번만 실행하면 됨.
 -----------------------
 
-## 🍬🍬🍬 uplode th codr on github
+## 🍬🍬🍬 uplode th codr on github  🍄🍄🍄
 
 * 초기화
       
@@ -40,3 +40,16 @@
 * 히스토리 만들기(-m=메세지 ""= 안에 쓴 내용은 히스토리 이름 적음)
       
       git commit -m"first commit"
+
+* github에 repository를 만들고 그 주소와 연결하기(리드미 생성금지)
+
+      git remote add origin https://github.com/kgy424/css_flex.git
+      
+* 연결 확인(사용 안 해도 되는데 혹시나 싶자너~)
+
+      git remote -v
+      
+* github에 올리기
+
+      git push origin master
+      
