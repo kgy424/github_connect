@@ -63,3 +63,11 @@
 2. 다시 push하기
       
             git push origin master
+
+
+---------------------------
+## 🩹 on visiual code 🩹
+ 
+      * menu list -> dir
+      * go in   -> cd
+            
