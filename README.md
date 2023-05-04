@@ -69,5 +69,6 @@
 ## 🩹 on visiual code 🩹
  
       * menu list -> dir
-      * go in   -> cd
+      * go in     -> cd
+      * go back   -> cd..
             
