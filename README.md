@@ -29,6 +29,12 @@
 
 ## 🍬🍬🍬 uplode th codr on github  🍄🍄🍄
 
+### on visiual code 
+ 
+      * menu list -> dir
+      * go in     -> cd
+      * go back   -> cd..
+
 * 초기화
       
       git init
@@ -66,9 +72,5 @@
 
 
 ---------------------------
-## 🩹 on visiual code 🩹
- 
-      * menu list -> dir
-      * go in     -> cd
-      * go back   -> cd..
+
             
