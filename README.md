@@ -58,7 +58,7 @@
 
 1. 기존 코드를 먼저 다운 받음
 
-            git pull drigin master
+            git pull origin master
       
 2. 다시 push하기
       
