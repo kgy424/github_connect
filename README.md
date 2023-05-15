@@ -92,7 +92,31 @@ __1. Download sourec code__
       ![image](https://github.com/kgy424/github_connect/assets/129706828/ff5900a3-ce13-4a85-88b8-5b693ade9a70)
       
 __2. Write "git clone + link" where you want to download__      
+
       ex> git colne https://github.com/kgy424/hanacard.gi
+      
+__3. Make branch__      
+
+      git checkout -b ---
+      ex> git checkout -b kim
+      ![image](https://github.com/kgy424/github_connect/assets/129706828/18191250-9165-41e6-bae7-cf2521510072)
+
+__4. How to upload__
+
+      git add .
+      git commit -m "--"
+      git push origin ---
+
+      ex> git add .
+          git commit -m "hana"
+          git push origin kim
+          
+         
+      ![image](https://github.com/kgy424/github_connect/assets/129706828/20bc310d-9300-4ea5-beae-4125617803c5)   
+      
+      Then you get this window in GH!
+
+
 
 
             
