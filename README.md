@@ -86,6 +86,7 @@ __5. 다시 push하기__
 ---------------------------
 
 ### 🍬🍬🍬🍬 How to Collaboration in GitHub 🍄🍄🍄🍄
+>> side by co-worker
 
 __1. Download sourec code__
       
@@ -97,7 +98,7 @@ __2. Write "git clone + link" where you want to download__
       
 __3. Make branch__      
 
-      git checkout -b ---
+      git checkout -b ---(branch name)
       ex> git checkout -b kim
 
 ![image](https://github.com/kgy424/github_connect/assets/129706828/43add14e-63e3-4080-ae39-6ca2b0844d85)
@@ -117,6 +118,8 @@ __4. How to upload__
       
       Then you get this window in GH!
 
+
+__5. check your revision & click merge__
 
 
 
