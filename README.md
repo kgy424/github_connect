@@ -62,15 +62,37 @@
 ---------------------------
 ## 🩹 edit it and upload it again 🩹
 
-1. 기존 코드를 먼저 다운 받음
+__1. 초기화__
+      
+      git init
+      
+__2. 추가할 파일(폴더 안 내용을 모두 올림)__
+      
+      git add .(한 칸 띄우고 점 찍기 .은 모든 파일 의미)
+      
+__3. 히스토리 만들기(-m=메세지 ""= 안에 쓴 내용은 히스토리 이름 적음)__
+      
+      git commit -m"first commit"
+      
+__4. 기존 코드를 먼저 다운 받음__
 
             git pull origin master
       
-2. 다시 push하기
+__5. 다시 push하기__
       
             git push origin master
 
 
 ---------------------------
+
+### 🍬🍬🍬🍬 How to Collaboration in GitHub 🍄🍄🍄🍄
+
+__1. Download sourec code__
+      
+      ![image](https://github.com/kgy424/github_connect/assets/129706828/ff5900a3-ce13-4a85-88b8-5b693ade9a70)
+      
+__2. Write "git clone + link" where you want to download__      
+      ex> git colne https://github.com/kgy424/hanacard.gi
+
 
             
